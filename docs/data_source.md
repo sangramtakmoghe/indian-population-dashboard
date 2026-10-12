@@ -73,15 +73,7 @@ When interpreting or calculating totals:
 
 Where the source provides both a total-population series and separate male/female series, comparisons should be made using compatible classifications and reference dates.
 
-## 7. Limitations
-
-- Population figures are estimates and may be revised in later UN publications.
-- The dataset's methodology may differ from India's official census methodology.
-- The dashboard reflects the selected geographic, temporal, and demographic scope.
-- Differences in units, age definitions, and sex classifications can affect comparisons with other sources.
-- The dashboard is not intended to provide a real-time count of India's population.
-
-## 8. Reproducibility
+## 7. Reproducibility
 
 To reproduce or extend the analysis:
 
@@ -94,7 +86,7 @@ To reproduce or extend the analysis:
 
 The exact source download, dataset version, and final field names should be retained with the project files wherever licensing and file-size constraints permit.
 
-## 9. Attribution
+## 8. Attribution
 
 Source: United Nations, Department of Economic and Social Affairs, Population Division, *World Population Prospects 2024*.
 
