@@ -10,6 +10,12 @@ The project demonstrates practical skills in data preparation, demographic analy
 
 > **Data note:** The 2025 figures are population estimates, not results from a new Indian population census.
 
+## Live Dashboard
+
+**[View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/sangram.takmoghe/viz/India_Population_Explorer/Dashboard1)**
+
+Explore India's population estimates for 2025 through interactive demographic visualizations.
+
 ## Objectives 
 
 - Explore India's estimated population distribution by age and sex.
